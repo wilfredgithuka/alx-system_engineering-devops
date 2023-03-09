@@ -1,1 +1,1 @@
-This repo contains scripts that show the current working directory
+This repo contains work about changing file permissions
